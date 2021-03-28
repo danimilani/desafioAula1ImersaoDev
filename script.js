@@ -1,4 +1,4 @@
-var valorEmCelsiusTexto = prompt("Qual o valor em dolar que voce quer converter?")
+var valorEmCelsiusTexto = prompt("Qual a temperatura em Celsius que você deseja converter?")
 
 var valorEmCelsiusNumero = parseFloat(valorEmCelsiusTexto)
 
